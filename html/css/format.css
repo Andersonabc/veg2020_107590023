@@ -137,24 +137,6 @@ header h1{
 	display: block;
 }
 
-.banner-description{
-	/*positioning*/
-	position: absolute;
-	top: 50%;
-	left: 50%;
-	/*format style*/
-	margin: 0px;
-	line-height: 50px;
-	width: 200px;
-	margin-left: -100px;
-	margin-top: -25px;
-	text-align: center;
-	font-weight: normal;
-	font-size: 165%;
-	color: #e5e9dc;
-	background-color: rgba(0,0,0,0.5);
-}
-
 /*content*/
 .clear{
 	padding: 0px;
